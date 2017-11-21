@@ -1,0 +1,152 @@
+Sat Jun 28 14:42:25 1997 :: Please wait... booting EnvyMud...
+Sat Jun 28 14:42:25 1997 :: Booting database...
+Sat Jun 28 14:42:25 1997 :: Initializing random Generator
+Sat Jun 28 14:42:25 1997 :: Setting time and weather...
+Sat Jun 28 14:42:25 1997 :: Assigning gsn's for skills
+Sat Jun 28 14:42:25 1997 :: Loading socials
+Sat Jun 28 14:42:25 1997 :: Reading area files...
+Sat Jun 28 14:42:25 1997 :: help.are
+Sat Jun 28 14:42:25 1997 :: olc.hlp
+Sat Jun 28 14:42:25 1997 :: limbo.are
+Sat Jun 28 14:42:25 1997 :: arena.are
+Sat Jun 28 14:42:25 1997 :: smurf.are
+Sat Jun 28 14:42:25 1997 :: shaolin.are
+Sat Jun 28 14:42:25 1997 :: ocean.are
+Sat Jun 28 14:42:25 1997 :: purgator.are
+Sat Jun 28 14:42:25 1997 :: plains.are
+Sat Jun 28 14:42:25 1997 :: ofcol2.are
+Sat Jun 28 14:42:25 1997 :: olympus.are
+Sat Jun 28 14:42:25 1997 :: air.are
+Sat Jun 28 14:42:25 1997 :: shire.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/1119.prg
+Sat Jun 28 14:42:25 1997 :: gods.are
+Sat Jun 28 14:42:25 1997 :: hitower.are
+Sat Jun 28 14:42:25 1997 :: gnome.are
+Sat Jun 28 14:42:25 1997 :: wyvern.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/1704.prg
+Sat Jun 28 14:42:25 1997 :: haven.are
+Sat Jun 28 14:42:25 1997 :: astral.are
+Sat Jun 28 14:42:25 1997 :: catacomb.are
+Sat Jun 28 14:42:25 1997 :: hood.are
+Sat Jun 28 14:42:25 1997 :: draconia.are
+Sat Jun 28 14:42:25 1997 :: mahntor.are
+Sat Jun 28 14:42:25 1997 :: ultima.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/2415.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/2468.prg
+Sat Jun 28 14:42:25 1997 :: pyramid.are
+Sat Jun 28 14:42:25 1997 :: trollden.are
+Sat Jun 28 14:42:25 1997 :: firenewt.are
+Sat Jun 28 14:42:25 1997 :: midgaard.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3001.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3002.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3004.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3060.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3061.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3062.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3063.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3065.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3067.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3068.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3069.prg
+Sat Jun 28 14:42:25 1997 :: MOBProgs/3144.prg
+Sat Jun 28 14:42:25 1997 :: chapel.are
+Sat Jun 28 14:42:25 1997 :: midennir.are
+Sat Jun 28 14:42:25 1997 :: grave.are
+Sat Jun 28 14:42:25 1997 :: school.are
+Sat Jun 28 14:42:25 1997 :: rats.are
+Sat Jun 28 14:42:25 1997 :: moria.are
+Sat Jun 28 14:42:25 1997 :: circus.are
+Sat Jun 28 14:42:25 1997 :: juargan.are
+Sat Jun 28 14:42:25 1997 :: eastern.are
+Sat Jun 28 14:42:25 1997 :: drow.are
+Sat Jun 28 14:42:25 1997 :: thalos.are
+Sat Jun 28 14:42:25 1997 :: mirror.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/5332.prg
+Sat Jun 28 14:42:25 1997 :: ofcol.are
+Sat Jun 28 14:42:25 1997 :: arachnos.are
+Sat Jun 28 14:42:25 1997 :: haon.are
+Sat Jun 28 14:42:25 1997 :: dwarven.are
+Sat Jun 28 14:42:25 1997 :: MOBProgs/6504.prg
+Sat Jun 28 14:42:25 1997 :: daycare.are
+Sat Jun 28 14:42:25 1997 :: sewer.are
+Sat Jun 28 14:42:25 1997 :: valley.are
+Sat Jun 28 14:42:25 1997 :: redferne.are
+Sat Jun 28 14:42:25 1997 :: mega1.are
+Sat Jun 28 14:42:25 1997 :: nirvana.are
+Sat Jun 28 14:42:25 1997 :: castle.are
+Sat Jun 28 14:42:25 1997 :: marsh.are
+Sat Jun 28 14:42:25 1997 :: dream.are
+Sat Jun 28 14:42:25 1997 :: grove.are
+Sat Jun 28 14:42:25 1997 :: dylan.are
+Sat Jun 28 14:42:25 1997 :: canyon.are
+Sat Jun 28 14:42:25 1997 :: galaxy.are
+Sat Jun 28 14:42:25 1997 :: mobfact.are
+Sat Jun 28 14:42:25 1997 :: cult.are
+Sat Jun 28 14:42:25 1997 :: tree.are
+Sat Jun 28 14:42:25 1997 :: crystal.are
+Sat Jun 28 14:42:25 1997 :: solace.are
+Sat Jun 28 14:42:25 1997 :: descent.are
+Sat Jun 28 14:42:25 1997 :: murky.are
+Sat Jun 28 14:42:25 1997 :: highland.are
+Sat Jun 28 14:42:25 1997 :: goblins.are
+Sat Jun 28 14:42:25 1997 :: casino.are
+Sat Jun 28 14:42:25 1997 :: Fixing exits...
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 501:2 -> 500:0 -> 503.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 502:2 -> 500:0 -> 503.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10745:0 -> 10746:2 -> 10748.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10746:2 -> 10748:0 -> 10749.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10748:0 -> 10749:2 -> 10745.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10748:2 -> 10743:0 -> 10745.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10749:2 -> 10745:0 -> 10746.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10758:0 -> 10766:2 -> 10767.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10758:2 -> 10766:0 -> 10767.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10758:4 -> 10766:5 -> 10771.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10763:0 -> 10767:2 -> 10766.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10763:2 -> 10767:0 -> 10766.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10763:5 -> 10767:4 -> 10771.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10770:1 -> 10771:3 -> 10766.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10770:3 -> 10771:1 -> 10767.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10770:4 -> 10771:5 -> 10767.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10770:5 -> 10771:4 -> 10766.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 10771:0 -> 10770:2 -> 10769.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 2605:4 -> 2606:5 -> 2608.
+Sat Jun 28 14:42:25 1997 :: [*****] BUG: Fix_exits: 2617:2 -> 2619:0 -> 2618.
+Sat Jun 28 14:42:25 1997 :: Updating areas...
+Sat Jun 28 14:42:25 1997 :: Loading notes...
+Sat Jun 28 14:42:25 1997 :: Loading disabled commands...
+Sat Jun 28 14:42:25 1997 :: Loading ban's
+Sat Jun 28 14:42:25 1997 :: Loading bank info
+Sat Jun 28 14:42:25 1997 :: Loading downtime
+Sat Jun 28 14:42:25 1997 :: EnvyMud is ready to rock on port 1234.
+Sat Jun 28 14:42:43 1997 :: Sock.sinaddr:  127.0.0.1
+Sat Jun 28 14:42:44 1997 :: Canth@localhost has connected.
+Sat Jun 28 14:42:47 1997 :: Log Canth(@3054): who
+Sat Jun 28 14:42:50 1997 :: Log Canth(@3054): go 3700
+Sat Jun 28 14:45:50 1997 :: Log Canth(@3700): \sc
+Sat Jun 28 14:45:51 1997 :: Log Canth(@3700): sc
+Sat Jun 28 14:45:54 1997 :: Log Canth(@3700): sc
+Sat Jun 28 14:46:05 1997 :: Log Canth(@3700): inv
+Sat Jun 28 14:46:47 1997 :: Log Canth(@3700): quit
+Sat Jun 28 14:46:47 1997 :: Canth has quit.
+Sat Jun 28 14:47:18 1997 :: Sock.sinaddr:  127.0.0.1
+Sat Jun 28 14:47:22 1997 :: Canth@localhost has connected.
+Sat Jun 28 14:47:23 1997 :: Log Canth(@3700): sc
+Sat Jun 28 14:47:42 1997 :: Log Canth(@3700): sc
+Sat Jun 28 14:47:45 1997 :: Log Canth(@3700): inv
+Sat Jun 28 14:47:48 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:47:50 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:47:50 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:47:53 1997 :: Log Canth(@3700): inv
+Sat Jun 28 14:47:59 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:00 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:00 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:01 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:01 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:02 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:02 1997 :: Log Canth(@3700): eat shield
+Sat Jun 28 14:48:04 1997 :: Log Canth(@3700): inv
+Sat Jun 28 14:48:08 1997 :: Log Canth(@3700): shutdown
+Sat Jun 28 14:48:08 1997 :: Log Canth(@3700): asave changed
+Sat Jun 28 14:48:08 1997 :: Log Canth(@3700): quit
+Sat Jun 28 14:48:08 1997 :: Canth has quit.
+Sat Jun 28 14:48:09 1997 :: Normal termination of game.

@@ -1,0 +1,6 @@
+Player houses
+Object progs
+Remortalizing level 50 chars... PROPERLY!
+move quest stuff from char_data to pc_data
+Move a lot more stuff from char_data to pc_data. Saves memory.
+finger command

@@ -1,0 +1,246 @@
+#PLAYER
+Nm          Mythran~
+Version     1
+ShtDsc      ~
+LngDsc      ~
+Dscr        ~
+Prmpt       <%hhp %mm %vmv> ~
+Sx          1
+Cla         3
+OldClass    16
+Clan        Dragon~
+Clanlev     10
+Race        Human~
+Lvl         54
+Trst        55
+Security    1000
+Playd       13006995
+DeathAge    43696800
+Note        845657637
+Room        3700
+HpMnMv      29214 30949 29755 30000 30537 30537
+Gold        16000
+Exp         54000
+Act         83893880
+AffdBy      0
+Pos         7
+Prac        372
+SavThr      -100
+Align       1000
+Hit         10
+Dam         10
+Armr        -1000
+Wimp        0
+Deaf        0
+Paswd       MyC5bBGPLdrVc~
+Speak       0
+Learn       54
+Bmfin       comes marching in~
+Bmfout      marches on~
+Balance     100302300
+Shares      0
+Immskll     immtalk wizhelp advance divorce imtlset marry newring rename sstime trust wizpwd allow ban deny disconnect dog for force freeze log lset lstat mset noemote notell notestat numlock oload oset pardon purge reboo reboot restore shutdow shutdown silence set setkill sla slay sset sstat stat string transfer update users vnum wiznet wizify wizlock areacount echo disable exlist iscore memory mload mfind mstat mwhere pwhere newlock ofind ostat owhere peace pecho recho return rset rstat slookup smite snoop switch wizinvis at bamfin bamfout goto holylight : scan guild ~
+Wiznet      131069
+Ttle         the Implementor~
+WhoTxt      @~
+AtrPrm      25 25 25 25 25
+AtrMd       25 25 25 25 25
+Cond        0 -1 48
+Pglen       19
+Lang        100 'common'
+Lang        100 'human'
+Lang        100 'dwarvish'
+Lang        100 'elvish'
+Lang        100 'gnomish'
+Lang        100 'goblin'
+Lang        100 'orcish'
+Lang        100 'ogre'
+Lang        100 'drow'
+Lang        100 'kobold'
+Lang        100 'trollish'
+Lang        100 'hobbit'
+Skll        100 'acid blast'
+Skll        100 'age'
+Skll        100 'animate dead'
+Skll        100 'armor'
+Skll        100 'bless'
+Skll        100 'blindness'
+Skll        100 'breathe water'
+Skll        100 'burning hands'
+Skll        100 'call lightning'
+Skll        100 'cause critical'
+Skll        100 'cure disease'
+Skll        100 'cause light'
+Skll        100 'cause serious'
+Skll        100 'change sex'
+Skll        100 'charm person'
+Skll        100 'chill touch'
+Skll        100 'colour spray'
+Skll        100 'cone of silence'
+Skll        100 'continual light'
+Skll        100 'control weather'
+Skll        100 'create food'
+Skll        100 'create spring'
+Skll        100 'create water'
+Skll        100 'cure blindness'
+Skll        100 'cure critical'
+Skll        100 'cure light'
+Skll        100 'cure poison'
+Skll        100 'cure serious'
+Skll        100 'curse'
+Skll        100 'destroy cursed'
+Skll        100 'detect evil'
+Skll        100 'detect hidden'
+Skll        100 'detect invis'
+Skll        100 'detect magic'
+Skll        100 'detect poison'
+Skll        100 'dispel evil'
+Skll        100 'dispel magic'
+Skll        100 'earthquake'
+Skll        100 'enchant weapon'
+Skll        100 'energy drain'
+Skll        100 'exorcise'
+Skll        100 'faerie fire'
+Skll        100 'faerie fog'
+Skll        100 'fireball'
+Skll        100 'flamestrike'
+Skll        100 'flaming shield'
+Skll        100 'fly'
+Skll        100 'gate'
+Skll        100 'giant strength'
+Skll        100 'harm'
+Skll        100 'heal'
+Skll        100 'identify'
+Skll        100 'infravision'
+Skll        100 'invis'
+Skll        100 'know alignment'
+Skll        100 'lightning bolt'
+Skll        100 'locate object'
+Skll        100 'magic missile'
+Skll        100 'mass heal'
+Skll        100 'mass invis'
+Skll        100 'mute'
+Skll        100 'pass door'
+Skll        100 'plague'
+Skll        100 'poison'
+Skll        100 'polymorph other'
+Skll        100 'protection'
+Skll        100 'recharge item'
+Skll        100 'refresh'
+Skll        100 'rejuvenate'
+Skll        100 'remove alignment'
+Skll        100 'remove curse'
+Skll        100 'remove silence'
+Skll        100 'sanctuary'
+Skll        100 'shield'
+Skll        100 'shocking grasp'
+Skll        100 'sleep'
+Skll        100 'stone skin'
+Skll        100 'summon'
+Skll        100 'teleport'
+Skll        100 'turn undead'
+Skll        100 'ventriloquate'
+Skll        100 'weaken'
+Skll        100 'word of recall'
+Skll        100 'acid breath'
+Skll        100 'fire breath'
+Skll        100 'frost breath'
+Skll        100 'gas breath'
+Skll        100 'lightning breath'
+Skll        100 'backstab'
+Skll        100 'bash door'
+Skll        100 'berserk'
+Skll        100 'circle'
+Skll        100 'disarm'
+Skll        100 'dodge'
+Skll        100 'dual'
+Skll        100 'enhanced damage'
+Skll        100 'hide'
+Skll        100 'kick'
+Skll        100 'parry'
+Skll        100 'peek'
+Skll        100 'pick lock'
+Skll        100 'poison weapon'
+Skll        100 'bladethirst'
+Skll        100 'rescue'
+Skll        100 'scrolls'
+Skll        100 'second attack'
+Skll        100 'snare'
+Skll        100 'sneak'
+Skll        100 'staves'
+Skll        100 'steal'
+Skll        100 'third attack'
+Skll        100 'untangle'
+Skll        100 'wands'
+Skll        100 'hunt'
+Skll        100 'brew'
+Skll        100 'scribe'
+Skll        100 'lore'
+Skll        100 'general purpose'
+Skll        100 'high explosive'
+Skll        100 'adrenaline control'
+Skll        100 'agitation'
+Skll        100 'aura sight'
+Skll        100 'awe'
+Skll        100 'ballistic attack'
+Skll        100 'biofeedback'
+Skll        100 'cell adjustment'
+Skll        100 'chameleon power'
+Skll        100 'combat mind'
+Skll        100 'complete healing'
+Skll        100 'control flames'
+Skll        100 'create sound'
+Skll        100 'death field'
+Skll        100 'detonate'
+Skll        100 'disintegrate'
+Skll        100 'displacement'
+Skll        100 'domination'
+Skll        100 'ectoplasmic form'
+Skll        100 'ego whip'
+Skll        100 'energy containment'
+Skll        100 'enhance armor'
+Skll        100 'enhanced strength'
+Skll        100 'flesh armor'
+Skll        100 'heighten senses'
+Skll        100 'inertial barrier'
+Skll        100 'inflict pain'
+Skll        100 'intellect fortress'
+Skll        100 'lend health'
+Skll        100 'levitation'
+Skll        100 'mental barrier'
+Skll        100 'mind thrust'
+Skll        100 'project force'
+Skll        100 'psionic blast'
+Skll        100 'psychic crush'
+Skll        100 'psychic drain'
+Skll        100 'psychic healing'
+Skll        100 'shadow form'
+Skll        100 'share strength'
+Skll        100 'thought shield'
+Skll        100 'ultrablast'
+Skll        100 'stake'
+Skll        100 'rock flesh'
+Skll        100 'summon dead'
+Skll        100 'call quake'
+Skll        100 'vampiric bite'
+End
+
+#OBJECT
+Nest         0
+Name         flask glass~
+ShortDescr   a colorless flask~
+Description  A flask used to hold various liquids has been left here.
+~
+Vnum         202
+ExtraFlags   64
+WearFlags    16385
+WearLoc      -1
+ItemType     17
+Weight       15
+Level        27
+Timer        -1
+Cost         2808
+Values       250 50 0 0
+End
+
+#END
